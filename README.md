@@ -1,5 +1,5 @@
 <h1 align="left">Hi 👋, I'm Rumi Aguirre</h1>
-<h3 align="left">A passionate Backend Developer and Site Reliability Engineer from Spain</h3>
+<h3 align="left">A passionate Backend Developer from Spain</h3>
 
 <h4 align="left">Connect with me: <small><a href="https://www.linkedin.com/in/rumi-aguirre">https://www.linkedin.com/in/rumi-aguirre</a></small></h4>
 
